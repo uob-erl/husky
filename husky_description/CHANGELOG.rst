@@ -2,6 +2,12 @@
 Changelog for package husky_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.3.5 (2019-12-11)
+------------------
+
+0.3.4 (2019-08-01)
+------------------
+
 0.3.3 (2019-04-18)
 ------------------
 * Fixed bumper extensions, cleaned up collision meshes
